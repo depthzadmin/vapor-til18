@@ -1,0 +1,1 @@
+vapor run revert --all --yes

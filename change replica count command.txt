@@ -1,0 +1,1 @@
+vapor cloud deploy --replicas=0
